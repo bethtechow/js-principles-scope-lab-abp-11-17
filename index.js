@@ -10,5 +10,6 @@ function setBestCustomer(){
   console.log(bestCustomer)
 }
 function overwriteBestCustomer(){
-
+ var bestCustomer = `maybe bob`
+ console.log(bestCustomer)
 }
