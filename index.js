@@ -1,8 +1,8 @@
 // Write your solution in this file!
 var customerName = `bob`
 console.log(customerName)
-function upperCaseCustomerName(capsname){
-  let capsname = customerName.toUpperCase()
+function upperCaseCustomerName(){
+  customerName.toUpperCase()
   console.log(customerName.toUpperCase())
 }
 function setBestCustomer(){
@@ -10,5 +10,5 @@ function setBestCustomer(){
   console.log(bestCustomer)
 }
 function overwriteBestCustomer(){
-  
+
 }
